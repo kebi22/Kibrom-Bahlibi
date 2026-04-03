@@ -5,7 +5,7 @@ Machine Learning Engineer and Research Assistant focused on LLM fine-tuning, Gra
 
 ## What I work on
 - LLM fine-tuning and evaluation
-- Graph-RAG and natural language to Cypher systems
+- Graph-RAG and natural language to Cypher generation
 - Cybersecurity knowledge graphs
 - Multi-hop reasoning and link prediction
 - Data pipelines and ML workflows
@@ -21,7 +21,7 @@ Developed and evaluated LLM- and GNN-based approaches for binary link prediction
 Fine-tuned lightweight language models using LoRA/PEFT to improve question answering over structured cybersecurity data.
 
 ## Tech Stack
-**Languages:** Python, SQL, Java, C++  
+**Languages:** Python, SQL,  C++  
 **ML/AI:** PyTorch, scikit-learn, Transformers, LoRA, LangChain, LangGraph  
 **Data/Infra:** Neo4j, PostgreSQL, Docker, FastAPI, Git
 
@@ -36,6 +36,6 @@ Fine-tuned lightweight language models using LoRA/PEFT to improve question answe
 - LLM-driven QA and Text-to-Cypher systems
 
 ## Connect with me
-- LinkedIn: [your-link]
-- Email: [your-email]
-- Resume: [your-resume-link]
+- LinkedIn: ([url](https://www.linkedin.com/in/kibrom-esayas-bahlibi-632705248/))
+- Email: Kbahlibi@angelo.edu
+ 
